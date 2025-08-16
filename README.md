@@ -1,6 +1,6 @@
 <h1 align="center"><strong>NIVIN VALSALAN</strong></h1>
 
-<p align="left">
+<p align="centre">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nivinlp&theme=github_dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivinlp&layout=compact&theme=github_dark" />
  
